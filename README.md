@@ -13,3 +13,6 @@
 1. Add Redis caching alongside MongoDB for faster retrieval and additional support in data persistence.
 2. Add Authentication
 3. ...
+
+
+Tutorial Followed : https://www.youtube.com/watch?v=iRaelG7v0OU&ab_channel=WebDevSimplified 
